@@ -1,0 +1,127 @@
+#title
+{
+  background-color: #2b2e4a;
+}
+h1
+{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 5rem;
+  line-height: 1.5;
+  color:#fff;
+}
+.top-container
+{
+  padding:3% 15%;
+}
+body{
+  font-family: "Montserrat";
+}
+.navbar
+{
+  padding-bottom: 4.5rem;
+}
+.download-button
+{
+  margin:2%;
+}
+.row
+{
+  margin-top: 0px;
+}
+.middle-container
+{
+  padding:3% 15%;
+  background-color: #e84545;
+}
+.immm
+{
+  width: 20%;
+  clip-path: circle();
+  margin-top: 20px;
+}
+.description
+{
+  padding-top: 3%;
+}
+.lower-container
+{
+  background-color: #903749;
+  padding:3% 15%;
+}
+.morelower-container
+{
+  background-color: #903749;
+  padding:3% 15%;
+}
+.last-container
+{
+  background-color: #53354a;
+  padding-top: 3%;
+  padding-left: 15%;
+  padding-right: 15%;
+  text-align: center;
+}
+.font
+{
+  color: #fff;
+  font-family: 'Architects Daughter', cursive;
+  text-align: center;
+}
+p{
+  color: #dddddd;
+}
+#footer
+{
+  background-color: #53354a;
+  padding:3% 15%;
+  text-align: center;
+}
+#features
+{
+  margin-top: 70px;
+}
+.icon
+{
+  color: #ffbe0f;
+}
+.icon:hover
+{
+
+  color: #eff0b6;
+}
+h3
+{
+  color: #fff;
+}
+h2{
+  color: #eff0b6;
+  padding-top: 50px;
+}
+.description
+{
+  padding-left: 50px;
+}
+#testimonials
+{
+  text-align: center;
+}
+.imm
+{
+  width:20%;
+}
+#press
+{
+  background-color: #b7657b;
+  padding:10% 15%;
+  text-align: center;
+}
+.middle-text
+{
+  margin-bottom: 70px;
+  text-align: center;
+}
+.card
+{
+  background-color: #903749;
+  padding:3% 15%;
+}
